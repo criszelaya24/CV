@@ -61,9 +61,9 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - OOP, TDD, MVC, DDD, BDD
 - Agile/XP, Scrum, Micro-Services, Cloud Base Architecture
 - Ruby, Rails, JavaScript, BackBones, Express, Node, React, Redux
-- Sinatra, Golang, Angular, Jquery, JSON, React, CSS, JWT
+- Sinatra, Golang, Angular, Jquery, JSON, CSS, JWT
 - Postgres SQL, Mongo DB, Myqsl
-- RSpec, Jasmine, Cabypara, Cucumber, Selenium, Firebase, Jest, Firebase
+- RSpec, Jasmine, Cabypara, Cucumber, Selenium, Jest, Firebase
 - Responsive Web Design (Boostrap library)
 - Git / Github / Bitbucket
 - Travis CI
