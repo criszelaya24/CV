@@ -67,7 +67,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - Responsive Web Design (Boostrap library)
 - Git / Github / Bitbucket
 - Travis CI
-- Rubocop, ESlint, Jest
+- Rubocop, ESlint
 ```
 
 ## Education
