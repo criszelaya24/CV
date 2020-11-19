@@ -17,6 +17,7 @@ After that first world experience I found a great job opportunity in Chile, Whic
 
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
+| [Burguer-Builder](https://github.com/criszelaya24/burger-builder)| Mini project which is based on build a personal burguer and then move to a checkout to order it [Online version](https://burguer-builder-app.herokuapp.com/) | React, Heroku CLI, Firebase, JWT, Redux, CSS, Node, Javascript, JSX |
 | [Meet&Eat](https://github.com/criszelaya24/Meet-and-Eat) | WebApp thats allows you to create a post about where do you want to eat and others could joint it. [Deployed on Heroku](https://meet-andeat.herokuapp.com) | Ruby Rials, Jquery, Boostrap, Rspec, Capybara, Travis, Heroku |
 | [Acebook](https://github.com/criszelaya24/acebook) | Facebook clone [Deployed on Heroku](https://aqueous-wave-77193.herokuapp.com) | Ruby Rails, RSpec, Capybara, Travis, Heroku |
 | [MakersB&B](https://github.com/criszelaya24/makersbandb) | AirbB&B clone | express JS, MongoDB, Jasmine, Cypress |
@@ -25,7 +26,6 @@ After that first world experience I found a great job opportunity in Chile, Whic
 | [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS, API wheater |
 | [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API Football data, Figaro, boostrap|
 | [API-Admin](https://github.com/criszelaya24/admin-api)| API that manage the entrance and exit from employees and their profile [Online version](https://admin-runa-hr-api.herokuapp.com/app/v1) | Ruby Rails, Heroku CLI, postgres, JWT, Postman |
-| [Burguer-Builder](https://github.com/criszelaya24/burger-builder)| Mini project which is based on build a personal burguer and then move to a checkout to order it [Online version](https://burguer-builder-app.herokuapp.com/) | React, Heroku CLI, Firebase, JWT, Redux, CSS, Node, Javascript, JSX |
 
 ## Skills
 
@@ -67,7 +67,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - Responsive Web Design (Boostrap library)
 - Git / Github / Bitbucket
 - Travis CI
-- Rubocop, ESlint
+- Rubocop, ESlint, Jest
 ```
 
 ## Education
@@ -83,6 +83,10 @@ Be in touch during 16-intensive week with new people not only from london, in an
 ## Experience
 
 ### ✅ **Fanatiz** *(January 2019 - Present)*
+
+#### ```Operations Squad Lead```
+
+Guide, lead, define and validate the actions to be carried out for each technical task. Also from the tasks defined always working front-end back-end sides (Micro-service and Cloud Base Architecture).
 
 #### ```Engineering Analyst```
 
