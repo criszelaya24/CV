@@ -79,6 +79,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - Computer Engineering.
 
 #### **[Udemy (Online Course)](https://www.udemy.com/) (January 2020)**
+- Node and React courses.
 
 ## Experience
 
